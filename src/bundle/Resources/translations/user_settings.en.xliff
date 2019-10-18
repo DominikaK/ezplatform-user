@@ -7,12 +7,12 @@
     </header>
     <body>
       <trans-unit id="e5cd6324f4b82e528579bc3e520925523d2c1302" resname="ezplatform.date_time_format.date_format.label">
-        <source>Format for displaying Date</source>
+        <source>Format for displaying date</source>
         <target state="new">Format for displaying Date</target>
         <note>key: ezplatform.date_time_format.date_format.label</note>
       </trans-unit>
       <trans-unit id="5de657d6ce5bc796abc83abde3a6e79503953b17" resname="ezplatform.date_time_format.time_format.label">
-        <source>Format for displaying Time</source>
+        <source>Format for displaying time</source>
         <target state="new">Format for displaying Time</target>
         <note>key: ezplatform.date_time_format.time_format.label</note>
       </trans-unit>
@@ -37,7 +37,7 @@
         <note>key: my_account_settings.password.title</note>
       </trans-unit>
       <trans-unit id="98400a7e546231a994f6fea03dce3ebd52c1c33d" resname="settings.character_counter.value.description">
-        <source>Displays count of characters typed in Online Editor</source>
+        <source>Displays number of characters in Online Editor</source>
         <target state="new">Displays count of characters typed in Online Editor</target>
         <note>key: settings.character_counter.value.description</note>
       </trans-unit>
@@ -57,17 +57,17 @@
         <note>key: settings.character_counter.value.title</note>
       </trans-unit>
       <trans-unit id="bb01c22de6038102d6fa6646f4ecebaf0c54e720" resname="settings.full_datetime_format.value.description">
-        <source><![CDATA[Format for displaying Date & Time]]></source>
+        <source><![CDATA[Format for displaying Date and Time]]></source>
         <target state="new"><![CDATA[Format for displaying Date & Time]]></target>
         <note>key: settings.full_datetime_format.value.description</note>
       </trans-unit>
       <trans-unit id="9b6504d133b0a02fd337aa91d724723c927e4e96" resname="settings.full_datetime_format.value.title">
-        <source><![CDATA[Long Date & Time format]]></source>
+        <source><![CDATA[Long Date and Time format]]></source>
         <target state="new"><![CDATA[Long Date & Time format]]></target>
         <note>key: settings.full_datetime_format.value.title</note>
       </trans-unit>
       <trans-unit id="3a4946ea2a7aaa360112cf1e657617e7ce7c7d9b" resname="settings.language.value.description">
-        <source>The language of the administration panel</source>
+        <source>The language of the Back Office</source>
         <target state="new">The language of the administration panel</target>
         <note>key: settings.language.value.description</note>
       </trans-unit>
@@ -77,12 +77,12 @@
         <note>key: settings.language.value.title</note>
       </trans-unit>
       <trans-unit id="f99a9bb9741db45f57f2436c535d89609ebc6b0d" resname="settings.short_datetime_format.value.description">
-        <source><![CDATA[Format for displaying Date & Time]]></source>
+        <source><![CDATA[Format for displaying Date and Time]]></source>
         <target state="new"><![CDATA[Format for displaying Date & Time]]></target>
         <note>key: settings.short_datetime_format.value.description</note>
       </trans-unit>
       <trans-unit id="f87e581648ae7baaa1e96941f1c8b45c11f73553" resname="settings.short_datetime_format.value.title">
-        <source><![CDATA[Short Date & Time format]]></source>
+        <source><![CDATA[Short Date and Time format]]></source>
         <target state="new"><![CDATA[Short Date & Time format]]></target>
         <note>key: settings.short_datetime_format.value.title</note>
       </trans-unit>
@@ -97,7 +97,7 @@
         <note>key: settings.subitems_limit.value.title</note>
       </trans-unit>
       <trans-unit id="dac7ffb84bac8bc5a682388098bded0f8f49d841" resname="settings.timezone.value.description">
-        <source><![CDATA[Time Zone in use for displaying Date & Time]]></source>
+        <source><![CDATA[Time Zone in use for displaying Date and Time]]></source>
         <target state="new"><![CDATA[Time Zone in use for displaying Date & Time]]></target>
         <note>key: settings.timezone.value.description</note>
       </trans-unit>

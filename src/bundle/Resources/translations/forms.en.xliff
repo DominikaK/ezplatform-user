@@ -22,7 +22,7 @@
         <note>key: ezplatform.change_user_password.new_password</note>
       </trans-unit>
       <trans-unit id="7d2421be11a5351c12c952611c7a1a7f00f51cd9" resname="ezplatform.change_user_password.old_password">
-        <source>Old password</source>
+        <source>Current password</source>
         <target state="new">Old password</target>
         <note>key: ezplatform.change_user_password.old_password</note>
       </trans-unit>
